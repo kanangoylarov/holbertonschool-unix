@@ -1,0 +1,2 @@
+#!/bin/bash
+awl 'NR==3' iacta
